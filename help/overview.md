@@ -1,10 +1,10 @@
 ---
-title: GenStudio for Performance Marketing チュートリアル
+title: パフォーマンスマーケティングTutorials向けGenStudio
 description: GenStudio for Performance Marketingの機能に関するビデオチュートリアルをご覧ください。 オンブランドのアセットをすばやく作成し、バリエーションを生成し、エクスペリエンスを最適化する方法について説明します。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 16e7ce896d450633183232443eb8a44cf3bb4b2b
+source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
