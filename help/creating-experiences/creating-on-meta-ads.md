@@ -1,6 +1,6 @@
 ---
-title: ブランド上のメタ広告作成
-description: Meta 広告 in [!DNL GenStudio for Performance Marketing]の作成に関する製品のウォークスルーを順を追って説明します。
+title: オンブランドのメタ広告の作成
+description: ' [!DNL GenStudio for Performance Marketing] でメタ広告を作成するための製品の詳細な手順に従います。'
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
 level: Beginner, Intermediate, Experienced
@@ -16,7 +16,7 @@ ht-degree: 36%
 
 ---
 
-# オンブランドメタ広告作成
+# オンブランドのメタ広告の作成
 
 [!DNL GenStudio for Performance Marketing] でメタ広告を作成する手順を説明します。
 
