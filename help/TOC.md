@@ -13,8 +13,8 @@ ht-degree: 0%
 # Adobe [!DNL GenStudio for Performance Marketing] チュートリアル {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing] チュートリアル](overview.md)
-+ ブランド {#inputing-your-brand} の入力
++ ブランド の入力 {#inputing-your-brand}
    + [ブランド、製品、ペルソナの入力](./inputting-your-brand/inputting-brand-product-persona.md)
-+ でのエクスペリエンス {#creating-experiences} 作成
++ でのエクスペリエンス 作成 {#creating-experiences}
    + [オンブランドのマーケティングメールの作成](./creating-experiences/creating-on-brand-emails.md)
    + [オンブランドのメタ広告の作成](./creating-experiences/creating-on-meta-ads.md)
