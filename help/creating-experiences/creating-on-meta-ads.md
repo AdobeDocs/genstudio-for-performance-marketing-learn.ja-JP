@@ -20,4 +20,4 @@ ht-degree: 36%
 
 [!DNL GenStudio for Performance Marketing] でメタ広告を作成する手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435079/?learn=on&captions=jpn)
