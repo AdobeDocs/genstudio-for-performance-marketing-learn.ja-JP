@@ -38,7 +38,7 @@ AdobeCLA は 1 回送信するだけで済みます。以前に送信したこ�
 ## コードレビュー
 
 すべての送信は、プルリクエスト形式でおこなわれ、レビューする必要があります
-プロジェクト コミッター別 [GitHub のプルリクエストドキュメントをお読みください ](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+プロジェクト コミッター別 [GitHub のプルリクエストドキュメントをお読みください &#x200B;](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 プルリクエストの送信に関する詳細情報。
 
 <!--
