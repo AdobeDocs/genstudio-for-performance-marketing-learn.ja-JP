@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe [!DNL GenStudio for Performance Marketing] でオンブランドマーケティングメールを作成する方法を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435068/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)

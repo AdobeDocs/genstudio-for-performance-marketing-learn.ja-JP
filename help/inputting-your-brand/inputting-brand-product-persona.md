@@ -20,4 +20,4 @@ ht-degree: 83%
 
 このビデオでは、会社のブランドガイドライン、製品、主要なマーケティングペルソナをパフォーマンスマーケティング用の Adobe GenStudio に入力する方法について詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439372/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)

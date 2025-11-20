@@ -1,5 +1,5 @@
 ---
-title: オンブランドのメタ広告の作成
+title: ブランド上のMeta広告の作成
 description: ' [!DNL GenStudio for Performance Marketing] でメタ広告を作成するための製品の詳細な手順に従います。'
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 [!DNL GenStudio for Performance Marketing] でメタ広告を作成する手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435079/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
