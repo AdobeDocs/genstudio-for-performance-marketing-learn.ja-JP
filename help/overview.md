@@ -1,14 +1,14 @@
 ---
-title: GenStudio for Performance MarketingTutorials
+title: GenStudio for Performance Marketing チュートリアル
 description: GenStudio for Performance Marketingの機能に関するビデオチュートリアルをご覧ください。 オンブランドのアセットをすばやく作成、バリエーションを生成、エクスペリエンスを最適化する方法について説明します。
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
+source-git-commit: 61a80be078be8ef78113c8fb472c8fee80334001
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 27%
+ht-degree: 43%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 27%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="ブランド、製品、ペルソナの入力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439372/?format=jpeg&nocache=1732633204686&captions=jpn" alt="ブランド、製品、ペルソナの入力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="ブランド、製品、ペルソナの入力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -41,11 +41,11 @@ ht-degree: 27%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" title="ブランド、製品、ペルソナの入力"> ブランド、製品、ペルソナの入力 </a>
                     </p>
-                    <p class="is-size-6">このビデオでは、会社のブランドガイドライン、商品、主要なマーケティングペルソナをGenStudio for Performance Marketingに入力する方法を詳しく説明します。</p>
+                    <p class="is-size-6">このビデオでは、会社のブランドガイドライン、製品、主要なマーケティングペルソナをパフォーマンスマーケティング用の Adobe GenStudio に入力する方法について詳しく説明します。</p>
                 </div>
                 <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
             </div>
         </div>
     </div>
@@ -67,7 +67,7 @@ ht-degree: 27%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="オンブランドのマーケティングメールの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435068/?format=jpeg&nocache=1732633205780&captions=jpn" alt="オンブランドのマーケティングメールの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="オンブランドのマーケティングメールの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,8 +80,8 @@ ht-degree: 27%
                     <p class="is-size-6">Adobe [!DNL GenStudio for Performance Marketing] でオンブランドのマーケティングメールを作成する方法の段階的な説明を参照してください。</p>
                 </div>
                 <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
             </div>
         </div>
     </div>
@@ -89,8 +89,8 @@ ht-degree: 27%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./creating-experiences/creating-on-meta-ads.md" title="オンブランドのメタ広告の作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435079/?format=jpeg&nocache=1732633205785&captions=jpn" alt="オンブランドのメタ広告の作成"
+                    <a href="./creating-experiences/creating-on-meta-ads.md" title="ブランド上のMeta広告の作成" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="ブランド上のMeta広告の作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,13 +98,13 @@ ht-degree: 27%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="オンブランドのメタ広告の作成"> ブランド上のメタ広告の作成 </a>
+                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="ブランド上のMeta広告の作成"> ブランド上のMeta広告の作成 </a>
                     </p>
                     <p class="is-size-6">[!DNL GenStudio for Performance Marketing] でメタ広告を作成する手順を説明します。</p>
                 </div>
                 <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
             </div>
         </div>
     </div>
@@ -141,7 +141,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435068?format=jpeg&captions=jpn" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -154,7 +154,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435079?format=jpeg&captions=jpn" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
@@ -172,6 +172,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 -->
