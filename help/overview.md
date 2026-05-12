@@ -5,10 +5,15 @@ role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 733b1be3d4ff8ec93ec4f2e8a1cc89ddbb1b8646
+TQID: https://experienceleague.adobe.com/OTbk89qtAxsSw4n2I-kUmw437Q7jZgkeHkD-Ag-l12s
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a3fbb2a2e3184ef09de75dda8bb76bf4ab7a52ec
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 43%
+source-wordcount: 174
+ht-degree: 41%
 
 ---
 
@@ -32,7 +37,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="ブランド、製品、ペルソナの入力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439372/?captions=jpn&format=jpeg&nocache=1732633204686" alt="ブランド、製品、ペルソナの入力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="ブランド、製品、ペルソナの入力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,8 +50,8 @@ CARDS
                     <p class="is-size-6">このビデオでは、会社のブランドガイドライン、製品、主要なマーケティングペルソナをパフォーマンスマーケティング用の Adobe GenStudio に入力する方法について詳しく説明します。</p>
                 </div>
                 <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                </a>
             </div>
         </div>
     </div>
@@ -69,7 +74,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="ブランドに即したマーケティングメールの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435068/?captions=jpn&format=jpeg&nocache=1732633205780" alt="ブランドに即したマーケティングメールの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="ブランドに即したマーケティングメールの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,8 +87,8 @@ CARDS
                     <p class="is-size-6">Adobe [!DNL GenStudio for Performance Marketing] でオンブランドのマーケティングメールを作成する方法の段階的な説明を参照してください。</p>
                 </div>
                 <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                </a>
             </div>
         </div>
     </div>
@@ -92,7 +97,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-meta-ads.md" title="ブランド基準に準拠したMeta広告の制作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435079/?captions=jpn&format=jpeg&nocache=1732633205785" alt="ブランド基準に準拠したMeta広告の制作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="ブランド基準に準拠したMeta広告の制作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -105,7 +110,7 @@ CARDS
                     <p class="is-size-6">[!DNL GenStudio for Performance Marketing] でメタ広告を作成する手順を説明します。</p>
                 </div>
                 <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
                 </a>
             </div>
         </div>
@@ -143,7 +148,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435068?captions=jpn&format=jpeg" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -156,7 +161,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435079?captions=jpn&format=jpeg" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
@@ -174,6 +179,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 -->
