@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [[!DNL GenStudio for Performance Marketing]件のチュートリアル](overview.md)
 + 企業を入力する {#inputing-your-brand}
-   + [ブランド、製品、ペルソナの入力](./inputting-your-brand/inputting-brand-product-persona.md)
+  + [ブランド、製品、ペルソナの入力](./inputting-your-brand/inputting-brand-product-persona.md)
 + エクスペリエンスの構築 {#creating-experiences}
-   + [ブランドに即したマーケティングメールの作成](./creating-experiences/creating-on-brand-emails.md)
-   + [ブランドに即したメタ広告の作成](./creating-experiences/creating-on-meta-ads.md)
+  + [ブランドに即したマーケティングメールの作成](./creating-experiences/creating-on-brand-emails.md)
+  + [ブランドに即したメタ広告の作成](./creating-experiences/creating-on-meta-ads.md)
