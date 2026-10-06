@@ -50,4 +50,4 @@ ht-degree: 39%
 
 Adobe [!DNL GenStudio for Performance Marketing]でブランドに即したマーケティングメールを作成する方法をステップバイステップで説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435068/?captions=jpn&learn=on)
